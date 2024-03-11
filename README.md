@@ -1,0 +1,2 @@
+# mistral
+RUn as Server
